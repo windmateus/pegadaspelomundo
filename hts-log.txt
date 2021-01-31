@@ -1,0 +1,772 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 23 Jan 2021 17:20:11 at http://www.pegadaspelomundo.com.br/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://www.pegadaspelomundo.com.br/ -O1 "C:\Users\windm\Downloads\pegadas" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:43:50	Error: 	"Bad Request" (400) at link www.pegadaspelomundo.com.br/wp-admin/admin-ajax.php (from www.pegadaspelomundo.com.br/)
+17:44:25	Warning: 	Retry after error -2 (Receive Time Out) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/08/IMG_20170602_123732436_HDR.jpg (from www.pegadaspelomundo.com.br/)
+17:44:26	Warning: 	Retry after error -2 (Receive Time Out) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/08/dIMG_20170602_134457998.jpg (from www.pegadaspelomundo.com.br/)
+17:44:27	Warning: 	Retry after error -2 (Receive Time Out) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/08/IMG_20170602_135716388.jpg (from www.pegadaspelomundo.com.br/)
+17:44:28	Warning: 	Retry after error -2 (Receive Time Out) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/08/IMG_20170602_171139961_HDR.jpg (from www.pegadaspelomundo.com.br/)
+17:44:29	Warning: 	Retry after error -2 (Receive Time Out) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/08/IMG_20170602_172132569_HDR.jpg (from www.pegadaspelomundo.com.br/)
+17:44:30	Warning: 	Retry after error -2 (Receive Time Out) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/08/IMG_20170602_212246761.jpg (from www.pegadaspelomundo.com.br/)
+17:44:31	Warning: 	Retry after error -2 (Receive Time Out) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/08/IMG_20170603_131327025.jpg (from www.pegadaspelomundo.com.br/)
+20:40:22	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=54
+20:40:22	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=54 to http://www.pegadaspelomundo.com.br/sobre-mim/
+20:40:22	Error: 	"Method Not Allowed" (405) at link www.pegadaspelomundo.com.br/xmlrpc.php (from www.pegadaspelomundo.com.br/sobre-mim/)
+20:40:22	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=2185
+20:40:22	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=2185 to http://www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-6-dias-na-suica-parte-3-interlaken-volta-pra-casa-e-consideracoes-finais/
+20:40:51	Warning: 	Retry after error -2 (Receive Time Out) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/08/IMG_20170602_171139961_HDR.jpg (from www.pegadaspelomundo.com.br/)
+20:40:51	Warning: 	Retry after error -2 (Receive Time Out) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/08/IMG_20170602_172132569_HDR.jpg (from www.pegadaspelomundo.com.br/)
+20:44:34	Warning: 	Retry after error -2 (Receive Time Out) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/08/IMG_20170602_212246761.jpg (from www.pegadaspelomundo.com.br/)
+20:44:47	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/08/IMG_20170603_131327025.jpg (from www.pegadaspelomundo.com.br/)
+20:47:17	Warning: 	Retry after error -2 (Receive Time Out) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/DSCN2628.jpg (from www.pegadaspelomundo.com.br/page/2/)
+20:48:14	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/DSCN2628-e1526094456892-768x1024.jpg (from www.pegadaspelomundo.com.br/page/2/)
+20:48:35	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/DSCN2641.jpg (from www.pegadaspelomundo.com.br/page/2/)
+20:49:26	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/DSCN2641-1024x768.jpg (from www.pegadaspelomundo.com.br/page/2/)
+20:50:00	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/IMG_20170530_111401050_HDR.jpg (from www.pegadaspelomundo.com.br/page/2/)
+20:50:27	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/IMG_20170530_111401050_HDR-1024x576.jpg (from www.pegadaspelomundo.com.br/page/2/)
+20:50:54	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/IMG_20170531_121202584_HDR.jpg (from www.pegadaspelomundo.com.br/page/2/)
+20:55:26	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/IMG_20170531_121202584_HDR-1024x576.jpg (from www.pegadaspelomundo.com.br/page/2/)
+20:55:51	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/IMG_20170531_161523007_HDR.jpg (from www.pegadaspelomundo.com.br/page/2/)
+20:58:05	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/IMG_20170531_161523007_HDR-1024x576.jpg (from www.pegadaspelomundo.com.br/page/2/)
+20:58:28	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/IMG_20170531_162610625_HDR.jpg (from www.pegadaspelomundo.com.br/page/2/)
+21:04:34	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/IMG_20170531_162610625_HDR-1024x576.jpg (from www.pegadaspelomundo.com.br/page/2/)
+21:04:55	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/IMG_20170531_191431937_HDR.jpg (from www.pegadaspelomundo.com.br/page/2/)
+21:04:56	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/IMG_20170531_191431937_HDR-1024x768.jpg (from www.pegadaspelomundo.com.br/page/2/)
+21:05:20	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/IMG_20170531_201813162.jpg (from www.pegadaspelomundo.com.br/page/2/)
+21:05:20	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/IMG_20170531_201813162-1024x576.jpg (from www.pegadaspelomundo.com.br/page/2/)
+21:05:44	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/IMG_20170531_204305020.jpg (from www.pegadaspelomundo.com.br/page/2/)
+21:06:57	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/IMG_20170531_204305020-1024x576.jpg (from www.pegadaspelomundo.com.br/page/2/)
+21:07:11	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/IMG_20170531_215543702.jpg (from www.pegadaspelomundo.com.br/page/2/)
+21:09:22	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/IMG_20170531_215543702-1024x576.jpg (from www.pegadaspelomundo.com.br/page/2/)
+21:09:41	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/IMG-20170531-WA0027.jpg (from www.pegadaspelomundo.com.br/page/2/)
+21:10:11	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/IMG-20170531-WA0027-1024x768.jpg (from www.pegadaspelomundo.com.br/page/2/)
+21:10:29	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/IMG_20170601_121929841_HDR.jpg (from www.pegadaspelomundo.com.br/page/2/)
+21:16:16	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/IMG_20170601_121929841_HDR-1024x576.jpg (from www.pegadaspelomundo.com.br/page/2/)
+21:16:37	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/IMG_20170601_122156542.jpg (from www.pegadaspelomundo.com.br/page/2/)
+21:18:17	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/IMG_20170601_122156542-1024x576.jpg (from www.pegadaspelomundo.com.br/page/2/)
+21:18:37	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/IMG_20170601_125559171_HDR.jpg (from www.pegadaspelomundo.com.br/page/2/)
+21:20:07	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/IMG_20170601_125559171_HDR-1024x576.jpg (from www.pegadaspelomundo.com.br/page/2/)
+21:20:20	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/IMG_20170601_140052316.jpg (from www.pegadaspelomundo.com.br/page/2/)
+21:20:28	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/IMG_20170601_140052316-576x1024.jpg (from www.pegadaspelomundo.com.br/page/2/)
+21:20:45	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/DSCN2677.jpg (from www.pegadaspelomundo.com.br/page/2/)
+21:28:38	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/DSCN2677-1024x768.jpg (from www.pegadaspelomundo.com.br/page/2/)
+21:28:43	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/IMG_20170601_183402568.jpg (from www.pegadaspelomundo.com.br/page/2/)
+21:28:52	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/IMG_20170601_183402568-1024x576.jpg (from www.pegadaspelomundo.com.br/page/2/)
+21:29:09	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/IMG_20170601_192807481_HDR.jpg (from www.pegadaspelomundo.com.br/page/2/)
+21:29:35	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/IMG_20170601_192807481_HDR-1024x576.jpg (from www.pegadaspelomundo.com.br/page/2/)
+21:29:59	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/IMG_20170601_204129312_HDR.jpg (from www.pegadaspelomundo.com.br/page/2/)
+21:30:30	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/IMG_20170601_204129312_HDR-1024x576.jpg (from www.pegadaspelomundo.com.br/page/2/)
+21:30:46	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/page/3/ (from www.pegadaspelomundo.com.br/page/2/)
+21:30:48	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/viagens-eurotrip-2009/ (from www.pegadaspelomundo.com.br/page/30/)
+21:30:50	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2012/07/019.jpg (from www.pegadaspelomundo.com.br/page/30/)
+21:30:52	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2012/07/019-300x225.jpg (from www.pegadaspelomundo.com.br/page/30/)
+21:30:54	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/eurotrip-2009-paris-dias-1-2-e-3/ (from www.pegadaspelomundo.com.br/page/30/)
+21:30:56	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/eurotrip-2009-paris-e-londres-dias-4-e-5/ (from www.pegadaspelomundo.com.br/page/30/)
+21:30:58	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/eurotrip-2009-dublin-e-barcelona-dias-6-7-8-e-9/ (from www.pegadaspelomundo.com.br/page/30/)
+21:31:00	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/eurotrip-2009-ibiza-e-roma-dias-10-a-14/ (from www.pegadaspelomundo.com.br/page/30/)
+21:31:02	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/eurotrip-2009-hvar-e-dias-15-a/ (from www.pegadaspelomundo.com.br/page/30/)
+21:31:04	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/eurotrip-2009-season-finale/ (from www.pegadaspelomundo.com.br/page/30/)
+21:31:06	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2012/07/trieste-ancona.jpg (from www.pegadaspelomundo.com.br/page/30/)
+21:31:08	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2012/07/trieste-ancona-300x225.jpg (from www.pegadaspelomundo.com.br/page/30/)
+21:31:10	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/page/29/ (from www.pegadaspelomundo.com.br/page/30/)
+21:31:13	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-6-dias-na-suica-parte-2-lauterbrunnen-lucerna-grindewald-zermatt/feed/ (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-6-dias-na-suica-parte-2-lauterbrunnen-lucerna-grindewald-zermatt/)
+21:31:15	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/?p=2182 (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-6-dias-na-suica-parte-2-lauterbrunnen-lucerna-grindewald-zermatt/)
+21:31:16	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.pegadaspelomundo.com.br%2Feurotrip-2017-roteiro-de-6-dias-na-suica-parte-2-lauterbrunnen-lucerna-grindewald-zermatt%2F (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-6-dias-na-suica-parte-2-lauterbrunnen-lucerna-grindewald-zermatt/)
+21:31:18	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.pegadaspelomundo.com.br%2Feurotrip-2017-roteiro-de-6-dias-na-suica-parte-2-lauterbrunnen-lucerna-grindewald-zermatt%2F&format=xml (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-6-dias-na-suica-parte-2-lauterbrunnen-lucerna-grindewald-zermatt/)
+21:31:20	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2017/07/cropped-jungfraujoch.jpg (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-6-dias-na-suica-parte-2-lauterbrunnen-lucerna-grindewald-zermatt/)
+21:31:59	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/08/IMG_20170602_111531471-150x150.jpg (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-6-dias-na-suica-parte-2-lauterbrunnen-lucerna-grindewald-zermatt/)
+21:32:01	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/category/roteiros/ (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-6-dias-na-suica-parte-2-lauterbrunnen-lucerna-grindewald-zermatt/)
+21:32:04	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/tag/grindewald/ (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-6-dias-na-suica-parte-2-lauterbrunnen-lucerna-grindewald-zermatt/)
+21:32:06	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/tag/lauterbrunnen/ (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-6-dias-na-suica-parte-2-lauterbrunnen-lucerna-grindewald-zermatt/)
+21:32:08	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/tag/lucerna/ (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-6-dias-na-suica-parte-2-lauterbrunnen-lucerna-grindewald-zermatt/)
+21:32:10	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/tag/zermatt/ (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-6-dias-na-suica-parte-2-lauterbrunnen-lucerna-grindewald-zermatt/)
+21:32:12	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/vivendo-em-cracovia-roteiro-completo-para-turistas/feed/ (from www.pegadaspelomundo.com.br/vivendo-em-cracovia-roteiro-completo-para-turistas/)
+21:32:14	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/?p=2262 (from www.pegadaspelomundo.com.br/vivendo-em-cracovia-roteiro-completo-para-turistas/)
+21:32:15	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.pegadaspelomundo.com.br%2Fvivendo-em-cracovia-roteiro-completo-para-turistas%2F (from www.pegadaspelomundo.com.br/vivendo-em-cracovia-roteiro-completo-para-turistas/)
+21:32:17	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.pegadaspelomundo.com.br%2Fvivendo-em-cracovia-roteiro-completo-para-turistas%2F&format=xml (from www.pegadaspelomundo.com.br/vivendo-em-cracovia-roteiro-completo-para-turistas/)
+21:32:19	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/main-market-1-1778x1200-1778x1200.jpg (from www.pegadaspelomundo.com.br/vivendo-em-cracovia-roteiro-completo-para-turistas/)
+21:33:23	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/author/henrique/ (from www.pegadaspelomundo.com.br/vivendo-em-cracovia-roteiro-completo-para-turistas/)
+21:33:25	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/sunset.jpg (from www.pegadaspelomundo.com.br/vivendo-em-cracovia-roteiro-completo-para-turistas/)
+21:34:00	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/sunset-225x300.jpg (from www.pegadaspelomundo.com.br/vivendo-em-cracovia-roteiro-completo-para-turistas/)
+21:34:03	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/natal.jpg (from www.pegadaspelomundo.com.br/vivendo-em-cracovia-roteiro-completo-para-turistas/)
+21:34:35	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/natal-225x300.jpg (from www.pegadaspelomundo.com.br/vivendo-em-cracovia-roteiro-completo-para-turistas/)
+21:34:39	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/basilica.jpg (from www.pegadaspelomundo.com.br/vivendo-em-cracovia-roteiro-completo-para-turistas/)
+21:35:08	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/basilica-225x300.jpg (from www.pegadaspelomundo.com.br/vivendo-em-cracovia-roteiro-completo-para-turistas/)
+21:35:11	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/Podziemia-Rynku-1.jpg (from www.pegadaspelomundo.com.br/vivendo-em-cracovia-roteiro-completo-para-turistas/)
+21:35:30	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/Podziemia-Rynku-1-300x200.jpg (from www.pegadaspelomundo.com.br/vivendo-em-cracovia-roteiro-completo-para-turistas/)
+21:35:34	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/auschwitz.jpg (from www.pegadaspelomundo.com.br/vivendo-em-cracovia-roteiro-completo-para-turistas/)
+21:36:02	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/auschwitz-300x214.jpg (from www.pegadaspelomundo.com.br/vivendo-em-cracovia-roteiro-completo-para-turistas/)
+21:36:06	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/auschwitz04.png (from www.pegadaspelomundo.com.br/vivendo-em-cracovia-roteiro-completo-para-turistas/)
+21:36:38	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/auschwitz04-300x203.png (from www.pegadaspelomundo.com.br/vivendo-em-cracovia-roteiro-completo-para-turistas/)
+21:36:59	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/auschwitz03.png (from www.pegadaspelomundo.com.br/vivendo-em-cracovia-roteiro-completo-para-turistas/)
+21:40:23	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/auschwitz03-300x211.png (from www.pegadaspelomundo.com.br/vivendo-em-cracovia-roteiro-completo-para-turistas/)
+21:40:45	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/auschwitz02.png (from www.pegadaspelomundo.com.br/vivendo-em-cracovia-roteiro-completo-para-turistas/)
+21:42:32	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/auschwitz02-232x300.png (from www.pegadaspelomundo.com.br/vivendo-em-cracovia-roteiro-completo-para-turistas/)
+21:42:57	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/salt-mine.jpg (from www.pegadaspelomundo.com.br/vivendo-em-cracovia-roteiro-completo-para-turistas/)
+21:44:17	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/salt-mine-300x200.jpg (from www.pegadaspelomundo.com.br/vivendo-em-cracovia-roteiro-completo-para-turistas/)
+21:44:21	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/wawel-wisla.jpg (from www.pegadaspelomundo.com.br/vivendo-em-cracovia-roteiro-completo-para-turistas/)
+21:44:46	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/wawel-wisla-300x225.jpg (from www.pegadaspelomundo.com.br/vivendo-em-cracovia-roteiro-completo-para-turistas/)
+21:44:48	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/schindler-1.jpg (from www.pegadaspelomundo.com.br/vivendo-em-cracovia-roteiro-completo-para-turistas/)
+21:45:07	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/schindler-1-225x300.jpg (from www.pegadaspelomundo.com.br/vivendo-em-cracovia-roteiro-completo-para-turistas/)
+21:45:09	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/kazimierz.jpg (from www.pegadaspelomundo.com.br/vivendo-em-cracovia-roteiro-completo-para-turistas/)
+21:45:41	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/kazimierz-300x200.jpg (from www.pegadaspelomundo.com.br/vivendo-em-cracovia-roteiro-completo-para-turistas/)
+21:45:45	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/kazimierz2.jpg (from www.pegadaspelomundo.com.br/vivendo-em-cracovia-roteiro-completo-para-turistas/)
+21:46:04	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/kazimierz2-225x300.jpg (from www.pegadaspelomundo.com.br/vivendo-em-cracovia-roteiro-completo-para-turistas/)
+21:46:06	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/lock-bridge.jpg (from www.pegadaspelomundo.com.br/vivendo-em-cracovia-roteiro-completo-para-turistas/)
+21:46:35	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/lock-bridge-300x229.jpg (from www.pegadaspelomundo.com.br/vivendo-em-cracovia-roteiro-completo-para-turistas/)
+21:46:37	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/krakus-mound.png (from www.pegadaspelomundo.com.br/vivendo-em-cracovia-roteiro-completo-para-turistas/)
+21:47:31	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/krakus-mound-300x226.png (from www.pegadaspelomundo.com.br/vivendo-em-cracovia-roteiro-completo-para-turistas/)
+21:47:53	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/koschiuszko.jpg (from www.pegadaspelomundo.com.br/vivendo-em-cracovia-roteiro-completo-para-turistas/)
+21:48:18	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/koschiuszko-225x300.jpg (from www.pegadaspelomundo.com.br/vivendo-em-cracovia-roteiro-completo-para-turistas/)
+21:48:19	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/forum.jpg (from www.pegadaspelomundo.com.br/vivendo-em-cracovia-roteiro-completo-para-turistas/)
+21:48:21	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/forum-225x300.jpg (from www.pegadaspelomundo.com.br/vivendo-em-cracovia-roteiro-completo-para-turistas/)
+21:48:23	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/jordana.jpg (from www.pegadaspelomundo.com.br/vivendo-em-cracovia-roteiro-completo-para-turistas/)
+21:48:48	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/jordana-225x300.jpg (from www.pegadaspelomundo.com.br/vivendo-em-cracovia-roteiro-completo-para-turistas/)
+21:48:52	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/tauron.jpg (from www.pegadaspelomundo.com.br/vivendo-em-cracovia-roteiro-completo-para-turistas/)
+21:48:59	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/tauron-225x300.jpg (from www.pegadaspelomundo.com.br/vivendo-em-cracovia-roteiro-completo-para-turistas/)
+21:49:03	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/stadion-henryka-reymana.jpg (from www.pegadaspelomundo.com.br/vivendo-em-cracovia-roteiro-completo-para-turistas/)
+21:49:05	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/stadion-henryka-reymana-225x300.jpg (from www.pegadaspelomundo.com.br/vivendo-em-cracovia-roteiro-completo-para-turistas/)
+21:49:07	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/zakrzowek.jpg (from www.pegadaspelomundo.com.br/vivendo-em-cracovia-roteiro-completo-para-turistas/)
+21:49:21	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/zakrzowek-300x225.jpg (from www.pegadaspelomundo.com.br/vivendo-em-cracovia-roteiro-completo-para-turistas/)
+21:49:26	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/bagry.jpg (from www.pegadaspelomundo.com.br/vivendo-em-cracovia-roteiro-completo-para-turistas/)
+21:49:36	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/bagry-225x300.jpg (from www.pegadaspelomundo.com.br/vivendo-em-cracovia-roteiro-completo-para-turistas/)
+21:49:42	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/krispinow.jpg (from www.pegadaspelomundo.com.br/vivendo-em-cracovia-roteiro-completo-para-turistas/)
+21:49:53	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/krispinow-300x175.jpg (from www.pegadaspelomundo.com.br/vivendo-em-cracovia-roteiro-completo-para-turistas/)
+21:49:57	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/snow.jpg (from www.pegadaspelomundo.com.br/vivendo-em-cracovia-roteiro-completo-para-turistas/)
+21:50:00	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/snow-225x300.jpg (from www.pegadaspelomundo.com.br/vivendo-em-cracovia-roteiro-completo-para-turistas/)
+21:50:04	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/patins-gelo.jpg (from www.pegadaspelomundo.com.br/vivendo-em-cracovia-roteiro-completo-para-turistas/)
+21:50:09	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/patins-gelo-300x225.jpg (from www.pegadaspelomundo.com.br/vivendo-em-cracovia-roteiro-completo-para-turistas/)
+21:50:12	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/bialka.jpg (from www.pegadaspelomundo.com.br/vivendo-em-cracovia-roteiro-completo-para-turistas/)
+21:50:18	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/05/bialka-225x300.jpg (from www.pegadaspelomundo.com.br/vivendo-em-cracovia-roteiro-completo-para-turistas/)
+21:50:20	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/22.jpg (from www.pegadaspelomundo.com.br/vivendo-em-cracovia-roteiro-completo-para-turistas/)
+21:50:21	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/eurotrip-2015-londres-lisboa/ (from www.pegadaspelomundo.com.br/vivendo-em-cracovia-roteiro-completo-para-turistas/)
+21:50:24	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2015/10/londres-ultimo-dia-150x150.jpg (from www.pegadaspelomundo.com.br/vivendo-em-cracovia-roteiro-completo-para-turistas/)
+21:50:25	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/category/polonia/ (from www.pegadaspelomundo.com.br/vivendo-em-cracovia-roteiro-completo-para-turistas/)
+21:50:26	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/tag/cracovia/ (from www.pegadaspelomundo.com.br/vivendo-em-cracovia-roteiro-completo-para-turistas/)
+21:50:27	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/tag/europe/ (from www.pegadaspelomundo.com.br/vivendo-em-cracovia-roteiro-completo-para-turistas/)
+21:50:29	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/tag/krakow/ (from www.pegadaspelomundo.com.br/vivendo-em-cracovia-roteiro-completo-para-turistas/)
+21:50:29	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/tag/poland/ (from www.pegadaspelomundo.com.br/vivendo-em-cracovia-roteiro-completo-para-turistas/)
+21:50:31	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/tag/polonia/ (from www.pegadaspelomundo.com.br/vivendo-em-cracovia-roteiro-completo-para-turistas/)
+21:50:31	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/vivendo-em-cracovia-roteiro-completo-para-turistas/?replytocom=1226 (from www.pegadaspelomundo.com.br/vivendo-em-cracovia-roteiro-completo-para-turistas/)
+21:50:33	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/vivendo-em-cracovia-roteiro-completo-para-turistas/?replytocom=1227 (from www.pegadaspelomundo.com.br/vivendo-em-cracovia-roteiro-completo-para-turistas/)
+21:50:35	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/vivendo-em-cracovia-roteiro-completo-para-turistas/?replytocom=1290 (from www.pegadaspelomundo.com.br/vivendo-em-cracovia-roteiro-completo-para-turistas/)
+21:50:36	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-6-dias-na-suica-parte-1-jungfraujoch-top-of-europe/feed/ (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-6-dias-na-suica-parte-1-jungfraujoch-top-of-europe/)
+21:50:37	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/?p=1876 (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-6-dias-na-suica-parte-1-jungfraujoch-top-of-europe/)
+21:50:39	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.pegadaspelomundo.com.br%2Feurotrip-2017-roteiro-de-6-dias-na-suica-parte-1-jungfraujoch-top-of-europe%2F (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-6-dias-na-suica-parte-1-jungfraujoch-top-of-europe/)
+21:50:39	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.pegadaspelomundo.com.br%2Feurotrip-2017-roteiro-de-6-dias-na-suica-parte-1-jungfraujoch-top-of-europe%2F&format=xml (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-6-dias-na-suica-parte-1-jungfraujoch-top-of-europe/)
+21:50:41	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/03/IMG_20170530_200508620.jpg (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-6-dias-na-suica-parte-1-jungfraujoch-top-of-europe/)
+21:50:41	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/03/IMG_20170530_200508620-1024x576.jpg (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-6-dias-na-suica-parte-1-jungfraujoch-top-of-europe/)
+21:50:55	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/03/IMG_20170530_112817612_HDR.jpg (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-6-dias-na-suica-parte-1-jungfraujoch-top-of-europe/)
+21:51:09	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/03/IMG_20170530_112817612_HDR-1024x576.jpg (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-6-dias-na-suica-parte-1-jungfraujoch-top-of-europe/)
+21:51:29	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/03/IMG_20170530_092237907_HDR.jpg (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-6-dias-na-suica-parte-1-jungfraujoch-top-of-europe/)
+22:00:42	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/03/IMG_20170530_092237907_HDR-1024x576.jpg (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-6-dias-na-suica-parte-1-jungfraujoch-top-of-europe/)
+22:01:07	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/03/IMG_20170530_100320043_HDR.jpg (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-6-dias-na-suica-parte-1-jungfraujoch-top-of-europe/)
+22:02:34	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/03/IMG_20170530_100320043_HDR-576x1024.jpg (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-6-dias-na-suica-parte-1-jungfraujoch-top-of-europe/)
+22:02:48	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/02/rotas-topofeurope.jpg (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-6-dias-na-suica-parte-1-jungfraujoch-top-of-europe/)
+22:03:13	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/03/IMG_20170530_105734025_HDR.jpg (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-6-dias-na-suica-parte-1-jungfraujoch-top-of-europe/)
+22:05:51	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/03/IMG_20170530_105734025_HDR-1024x576.jpg (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-6-dias-na-suica-parte-1-jungfraujoch-top-of-europe/)
+22:06:11	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/03/IMG_20170530_105934500.jpg (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-6-dias-na-suica-parte-1-jungfraujoch-top-of-europe/)
+22:07:53	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/03/IMG_20170530_105934500-576x1024.jpg (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-6-dias-na-suica-parte-1-jungfraujoch-top-of-europe/)
+22:08:09	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/03/DSCN2550.jpg (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-6-dias-na-suica-parte-1-jungfraujoch-top-of-europe/)
+22:09:57	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/03/DSCN2550-1024x768.jpg (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-6-dias-na-suica-parte-1-jungfraujoch-top-of-europe/)
+22:10:21	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/03/IMG_20170530_125040639.jpg (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-6-dias-na-suica-parte-1-jungfraujoch-top-of-europe/)
+22:14:12	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/03/IMG_20170530_125040639-1024x576.jpg (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-6-dias-na-suica-parte-1-jungfraujoch-top-of-europe/)
+22:14:32	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/03/IMG_20170530_141102310.jpg (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-6-dias-na-suica-parte-1-jungfraujoch-top-of-europe/)
+22:15:57	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/03/IMG_20170530_141102310-1024x576.jpg (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-6-dias-na-suica-parte-1-jungfraujoch-top-of-europe/)
+22:16:10	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/03/DSCN2603.jpg (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-6-dias-na-suica-parte-1-jungfraujoch-top-of-europe/)
+22:17:45	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/03/DSCN2603-1024x768.jpg (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-6-dias-na-suica-parte-1-jungfraujoch-top-of-europe/)
+22:17:57	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/03/DSCN2618.jpg (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-6-dias-na-suica-parte-1-jungfraujoch-top-of-europe/)
+22:23:56	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/03/DSCN2618-1024x768.jpg (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-6-dias-na-suica-parte-1-jungfraujoch-top-of-europe/)
+22:24:03	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/03/DSCN2578.jpg (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-6-dias-na-suica-parte-1-jungfraujoch-top-of-europe/)
+22:24:09	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/03/DSCN2578-1024x768.jpg (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-6-dias-na-suica-parte-1-jungfraujoch-top-of-europe/)
+22:24:26	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/03/IMG_20170530_130647958_HDR.jpg (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-6-dias-na-suica-parte-1-jungfraujoch-top-of-europe/)
+22:25:19	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/03/IMG_20170530_130647958_HDR-1024x576.jpg (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-6-dias-na-suica-parte-1-jungfraujoch-top-of-europe/)
+22:25:31	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/03/IMG_20170530_140314877.jpg (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-6-dias-na-suica-parte-1-jungfraujoch-top-of-europe/)
+22:27:43	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/03/IMG_20170530_140314877-1024x576.jpg (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-6-dias-na-suica-parte-1-jungfraujoch-top-of-europe/)
+22:28:01	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/03/IMG_20170530_153301221.jpg (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-6-dias-na-suica-parte-1-jungfraujoch-top-of-europe/)
+22:33:00	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/03/IMG_20170530_153301221-1024x576.jpg (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-6-dias-na-suica-parte-1-jungfraujoch-top-of-europe/)
+22:33:04	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/03/IMG_20170530_162453011.jpg (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-6-dias-na-suica-parte-1-jungfraujoch-top-of-europe/)
+22:33:11	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/03/IMG_20170530_162453011-1024x576.jpg (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-6-dias-na-suica-parte-1-jungfraujoch-top-of-europe/)
+22:33:27	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/03/IMG_20170530_164016268.jpg (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-6-dias-na-suica-parte-1-jungfraujoch-top-of-europe/)
+22:36:12	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/03/IMG_20170530_164016268-1024x576.jpg (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-6-dias-na-suica-parte-1-jungfraujoch-top-of-europe/)
+22:36:27	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/03/IMG_20170530_172220650.jpg (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-6-dias-na-suica-parte-1-jungfraujoch-top-of-europe/)
+22:37:32	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/03/IMG_20170530_172220650-576x1024.jpg (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-6-dias-na-suica-parte-1-jungfraujoch-top-of-europe/)
+22:37:44	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/tag/jungfrau/ (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-6-dias-na-suica-parte-1-jungfraujoch-top-of-europe/)
+22:37:46	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/tag/jungfraujoch/ (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-6-dias-na-suica-parte-1-jungfraujoch-top-of-europe/)
+22:37:48	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/tag/top-of-europe/ (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-6-dias-na-suica-parte-1-jungfraujoch-top-of-europe/)
+22:37:50	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-6-dias-na-suica-parte-1-jungfraujoch-top-of-europe/?replytocom=1224 (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-6-dias-na-suica-parte-1-jungfraujoch-top-of-europe/)
+22:37:52	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-6-dias-na-suica-parte-1-jungfraujoch-top-of-europe/?replytocom=1225 (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-6-dias-na-suica-parte-1-jungfraujoch-top-of-europe/)
+22:37:54	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-1-dia-em-innsbruck-e-chegada-na-suica/feed/ (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-1-dia-em-innsbruck-e-chegada-na-suica/)
+22:37:56	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-3-dias-em-munique/ (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-1-dia-em-innsbruck-e-chegada-na-suica/)
+22:37:58	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/?p=1874 (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-1-dia-em-innsbruck-e-chegada-na-suica/)
+22:38:00	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.pegadaspelomundo.com.br%2Feurotrip-2017-roteiro-de-1-dia-em-innsbruck-e-chegada-na-suica%2F (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-1-dia-em-innsbruck-e-chegada-na-suica/)
+22:38:02	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.pegadaspelomundo.com.br%2Feurotrip-2017-roteiro-de-1-dia-em-innsbruck-e-chegada-na-suica%2F&format=xml (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-1-dia-em-innsbruck-e-chegada-na-suica/)
+22:38:04	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/01/IMG_20170528_212145620.jpg (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-1-dia-em-innsbruck-e-chegada-na-suica/)
+22:42:53	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/01/IMG_20170528_212145620-1024x576.jpg (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-1-dia-em-innsbruck-e-chegada-na-suica/)
+22:43:07	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/01/IMG_20170528_152127102.jpg (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-1-dia-em-innsbruck-e-chegada-na-suica/)
+22:43:08	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/01/IMG_20170528_152127102-1024x576.jpg (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-1-dia-em-innsbruck-e-chegada-na-suica/)
+22:43:29	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/01/IMG_20170528_163704426_HDR.jpg (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-1-dia-em-innsbruck-e-chegada-na-suica/)
+22:43:30	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/01/IMG_20170528_163704426_HDR-1024x576.jpg (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-1-dia-em-innsbruck-e-chegada-na-suica/)
+22:43:46	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/01/IMG_20170528_163914602.jpg (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-1-dia-em-innsbruck-e-chegada-na-suica/)
+22:45:44	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/01/IMG_20170528_163914602-1024x576.jpg (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-1-dia-em-innsbruck-e-chegada-na-suica/)
+22:46:03	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/01/DSCN2488.jpg (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-1-dia-em-innsbruck-e-chegada-na-suica/)
+22:51:20	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/01/DSCN2488-1024x768.jpg (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-1-dia-em-innsbruck-e-chegada-na-suica/)
+22:51:45	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/01/IMG_20170528_161644218.jpg (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-1-dia-em-innsbruck-e-chegada-na-suica/)
+22:51:50	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/01/IMG_20170528_161644218-768x1024.jpg (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-1-dia-em-innsbruck-e-chegada-na-suica/)
+22:52:10	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/01/IMG_20170528_145701922.jpg (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-1-dia-em-innsbruck-e-chegada-na-suica/)
+22:54:31	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/01/IMG_20170528_145701922-1024x576.jpg (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-1-dia-em-innsbruck-e-chegada-na-suica/)
+22:54:53	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/01/IMG_20170528_180542747.jpg (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-1-dia-em-innsbruck-e-chegada-na-suica/)
+22:55:54	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/01/IMG_20170528_180542747-1024x576.jpg (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-1-dia-em-innsbruck-e-chegada-na-suica/)
+22:56:06	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/01/DSCN2501.jpg (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-1-dia-em-innsbruck-e-chegada-na-suica/)
+22:56:14	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/01/DSCN2501-1024x768.jpg (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-1-dia-em-innsbruck-e-chegada-na-suica/)
+22:56:39	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/01/IMG_20170528_212331529.jpg (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-1-dia-em-innsbruck-e-chegada-na-suica/)
+23:01:11	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/01/IMG_20170528_212331529-1024x768.jpg (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-1-dia-em-innsbruck-e-chegada-na-suica/)
+23:01:12	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/01/IMG_20170529_054018075.jpg (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-1-dia-em-innsbruck-e-chegada-na-suica/)
+23:01:33	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/01/IMG_20170529_054018075-1024x576.jpg (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-1-dia-em-innsbruck-e-chegada-na-suica/)
+23:01:54	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/01/IMG_20170529_131252513.jpg (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-1-dia-em-innsbruck-e-chegada-na-suica/)
+23:05:21	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/01/IMG_20170529_131252513-1024x576.jpg (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-1-dia-em-innsbruck-e-chegada-na-suica/)
+23:05:36	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/01/IMG_20170529_134653535.jpg (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-1-dia-em-innsbruck-e-chegada-na-suica/)
+23:06:45	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/01/IMG_20170529_134653535-576x1024.jpg (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-1-dia-em-innsbruck-e-chegada-na-suica/)
+23:07:04	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/01/IMG_20170529_200543544.jpg (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-1-dia-em-innsbruck-e-chegada-na-suica/)
+23:12:20	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2018/01/IMG_20170529_200543544-1024x576.jpg (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-1-dia-em-innsbruck-e-chegada-na-suica/)
+23:12:37	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/category/austria/ (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-1-dia-em-innsbruck-e-chegada-na-suica/)
+23:12:39	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/tag/austria/ (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-1-dia-em-innsbruck-e-chegada-na-suica/)
+23:12:41	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/tag/innsbruck/ (from www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-1-dia-em-innsbruck-e-chegada-na-suica/)
+23:12:42	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/tag/brasil/feed/ (from www.pegadaspelomundo.com.br/tag/brasil/)
+23:12:43	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/icaraizinho-de-amontada-2016/ (from www.pegadaspelomundo.com.br/tag/brasil/)
+23:12:45	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2017/01/IMG_20161228_105439809.jpg (from www.pegadaspelomundo.com.br/tag/brasil/)
+23:12:45	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2017/01/IMG_20161228_105439809-1024x576.jpg (from www.pegadaspelomundo.com.br/tag/brasil/)
+23:12:59	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2017/01/IMG_20161227_171417422_HDR.jpg (from www.pegadaspelomundo.com.br/tag/brasil/)
+23:17:47	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2017/01/IMG_20161227_171417422_HDR-1024x576.jpg (from www.pegadaspelomundo.com.br/tag/brasil/)
+23:18:09	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2017/01/IMG_20161228_172025005_TOP.jpg (from www.pegadaspelomundo.com.br/tag/brasil/)
+23:20:04	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2017/01/IMG_20161228_172025005_TOP-1024x576.jpg (from www.pegadaspelomundo.com.br/tag/brasil/)
+23:20:30	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2017/01/DSCN2196.jpg (from www.pegadaspelomundo.com.br/tag/brasil/)
+23:20:55	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2017/01/DSCN2196-1024x768.jpg (from www.pegadaspelomundo.com.br/tag/brasil/)
+23:21:09	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2017/01/DSCN2200.jpg (from www.pegadaspelomundo.com.br/tag/brasil/)
+23:22:31	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2017/01/DSCN2200-1024x768.jpg (from www.pegadaspelomundo.com.br/tag/brasil/)
+23:22:38	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2017/01/DSCN2209.jpg (from www.pegadaspelomundo.com.br/tag/brasil/)
+23:28:20	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2017/01/DSCN2209-1024x768.jpg (from www.pegadaspelomundo.com.br/tag/brasil/)
+23:28:36	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/tag/brasil/page/2/ (from www.pegadaspelomundo.com.br/tag/brasil/)
+23:28:37	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/tag/brasil/page/4/ (from www.pegadaspelomundo.com.br/tag/brasil/)
+23:28:39	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/tag/alemanha/feed/ (from www.pegadaspelomundo.com.br/tag/alemanha/)
+23:28:41	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-2-dias-em-rothenburg-pitstop-em-wurzburg-e-dinkelsbuhl/ (from www.pegadaspelomundo.com.br/tag/alemanha/)
+23:28:43	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2017/11/DSCN2456.jpg (from www.pegadaspelomundo.com.br/tag/alemanha/)
+23:29:35	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2017/11/DSCN2456-1024x768.jpg (from www.pegadaspelomundo.com.br/tag/alemanha/)
+23:30:05	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2017/11/IMG_20170525_202131649_HDR.jpg (from www.pegadaspelomundo.com.br/tag/alemanha/)
+23:31:23	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2017/11/IMG_20170525_202131649_HDR-576x1024.jpg (from www.pegadaspelomundo.com.br/tag/alemanha/)
+23:31:44	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2017/10/IMG_20170526_113355372.jpg (from www.pegadaspelomundo.com.br/tag/alemanha/)
+23:32:21	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2017/10/IMG_20170526_113355372-1024x576.jpg (from www.pegadaspelomundo.com.br/tag/alemanha/)
+23:32:40	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2017/11/IMG_20170526_123221330.jpg (from www.pegadaspelomundo.com.br/tag/alemanha/)
+23:38:39	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2017/11/IMG_20170526_123221330-1024x576.jpg (from www.pegadaspelomundo.com.br/tag/alemanha/)
+23:39:09	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2017/11/DSCN2441.jpg (from www.pegadaspelomundo.com.br/tag/alemanha/)
+23:40:33	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2017/11/DSCN2441-1024x768.jpg (from www.pegadaspelomundo.com.br/tag/alemanha/)
+23:40:53	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2017/11/DSCN2452.jpg (from www.pegadaspelomundo.com.br/tag/alemanha/)
+23:46:32	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2017/11/DSCN2452-1024x768.jpg (from www.pegadaspelomundo.com.br/tag/alemanha/)
+23:47:02	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2017/11/IMG_20170526_214504752.jpg (from www.pegadaspelomundo.com.br/tag/alemanha/)
+23:47:15	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2017/11/IMG_20170526_214504752-1024x576.jpg (from www.pegadaspelomundo.com.br/tag/alemanha/)
+23:47:34	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2017/11/IMG_20170527_125948886.jpg (from www.pegadaspelomundo.com.br/tag/alemanha/)
+23:48:54	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2017/11/IMG_20170527_125948886-1024x576.jpg (from www.pegadaspelomundo.com.br/tag/alemanha/)
+23:49:14	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2017/11/IMG_20170527_142943269.jpg (from www.pegadaspelomundo.com.br/tag/alemanha/)
+23:50:24	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2017/11/IMG_20170527_142943269-1024x576.jpg (from www.pegadaspelomundo.com.br/tag/alemanha/)
+23:50:45	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2017/11/IMG_20170527_171202281.jpg (from www.pegadaspelomundo.com.br/tag/alemanha/)
+23:57:19	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2017/11/IMG_20170527_171202281-1024x576.jpg (from www.pegadaspelomundo.com.br/tag/alemanha/)
+23:57:47	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2017/11/DSCN2465.jpg (from www.pegadaspelomundo.com.br/tag/alemanha/)
+23:58:03	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2017/11/DSCN2465-1024x768.jpg (from www.pegadaspelomundo.com.br/tag/alemanha/)
+23:58:27	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2017/11/IMG_20170525_224638185.jpg (from www.pegadaspelomundo.com.br/tag/alemanha/)
+00:00:21	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2017/11/IMG_20170525_224638185-1024x576.jpg (from www.pegadaspelomundo.com.br/tag/alemanha/)
+00:00:28	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/tag/alemanha/page/2/ (from www.pegadaspelomundo.com.br/tag/alemanha/)
+00:00:31	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/tag/alemanha/page/4/ (from www.pegadaspelomundo.com.br/tag/alemanha/)
+00:00:33	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/tag/amsterda/feed/ (from www.pegadaspelomundo.com.br/tag/amsterda/)
+00:00:35	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/eurotrip-2015-bruxelas-e-amsterda/ (from www.pegadaspelomundo.com.br/tag/amsterda/)
+00:00:37	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/eurotrip-2015-paris/ (from www.pegadaspelomundo.com.br/tag/amsterda/)
+00:00:39	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2015/08/10984304_10200157159449176_6378511486087787373_n.jpg (from www.pegadaspelomundo.com.br/tag/amsterda/)
+00:00:41	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2015/08/10984304_10200157159449176_6378511486087787373_n-300x225.jpg (from www.pegadaspelomundo.com.br/tag/amsterda/)
+00:00:44	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2015/08/10801659_4997527033413_2905592767523045125_n.jpg (from www.pegadaspelomundo.com.br/tag/amsterda/)
+00:00:49	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2015/08/10801659_4997527033413_2905592767523045125_n-300x300.jpg (from www.pegadaspelomundo.com.br/tag/amsterda/)
+00:00:56	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2015/08/10956277_5000616710653_3462496920747639757_n.jpg (from www.pegadaspelomundo.com.br/tag/amsterda/)
+00:01:04	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2015/08/10956277_5000616710653_3462496920747639757_n-300x300.jpg (from www.pegadaspelomundo.com.br/tag/amsterda/)
+00:01:09	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2015/08/10940591_5001245806380_6671147121884998817_n.jpg (from www.pegadaspelomundo.com.br/tag/amsterda/)
+00:01:14	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2015/08/10940591_5001245806380_6671147121884998817_n-300x300.jpg (from www.pegadaspelomundo.com.br/tag/amsterda/)
+00:01:18	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/tag/amsterda/www.tripadvisor.com.br/Restaurant_Review-g188590-d4046588-Reviews-Cafe_de_Raedt-Amsterdam_North_Holland_Province.html (from www.pegadaspelomundo.com.br/tag/amsterda/)
+00:01:19	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2015/08/10425496_4997538673704_7692486397224410438_n.jpg (from www.pegadaspelomundo.com.br/tag/amsterda/)
+00:01:22	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2015/08/10425496_4997538673704_7692486397224410438_n-300x169.jpg (from www.pegadaspelomundo.com.br/tag/amsterda/)
+00:01:27	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2015/08/10983408_10200157160289197_3061192220938012752_n.jpg (from www.pegadaspelomundo.com.br/tag/amsterda/)
+00:01:34	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2015/08/10983408_10200157160289197_3061192220938012752_n-300x225.jpg (from www.pegadaspelomundo.com.br/tag/amsterda/)
+00:01:40	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2015/08/10943115_5000305982885_6687602661899139943_n.jpg (from www.pegadaspelomundo.com.br/tag/amsterda/)
+00:01:47	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2015/08/10943115_5000305982885_6687602661899139943_n-300x169.jpg (from www.pegadaspelomundo.com.br/tag/amsterda/)
+00:01:50	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2015/08/1378562_10200157195050066_2007975105814303726_n.jpg (from www.pegadaspelomundo.com.br/tag/amsterda/)
+00:01:51	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2015/08/1378562_10200157195050066_2007975105814303726_n-300x225.jpg (from www.pegadaspelomundo.com.br/tag/amsterda/)
+00:01:55	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2015/08/10951360_10200157195330073_6579710738039309665_n.jpg (from www.pegadaspelomundo.com.br/tag/amsterda/)
+00:02:01	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2015/08/10951360_10200157195330073_6579710738039309665_n-300x225.jpg (from www.pegadaspelomundo.com.br/tag/amsterda/)
+00:02:05	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2015/08/11001822_10200157196610105_6537764122174655831_n.jpg (from www.pegadaspelomundo.com.br/tag/amsterda/)
+00:02:07	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2015/08/11001822_10200157196610105_6537764122174655831_n-169x300.jpg (from www.pegadaspelomundo.com.br/tag/amsterda/)
+00:02:11	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/tag/america-do-sul/feed/ (from www.pegadaspelomundo.com.br/tag/america-do-sul/)
+00:02:13	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/jericoacoara-o-paraiso-e-aqui/ (from www.pegadaspelomundo.com.br/tag/america-do-sul/)
+00:02:14	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/tag/america-do-sul/page/2/ (from www.pegadaspelomundo.com.br/tag/america-do-sul/)
+00:02:15	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/tag/america-do-sul/page/3/ (from www.pegadaspelomundo.com.br/tag/america-do-sul/)
+00:02:17	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/tag/ancona/feed/ (from www.pegadaspelomundo.com.br/tag/ancona/)
+00:02:18	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/eurotrip-2009-hvar-e-dias-15-a/attachment/000/ (from www.pegadaspelomundo.com.br/tag/ancona/)
+00:02:19	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2014/02/000-150x150.jpg (from www.pegadaspelomundo.com.br/tag/ancona/)
+00:02:20	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/eurotrip-2009-hvar-e-dias-15-a/000_/ (from www.pegadaspelomundo.com.br/tag/ancona/)
+00:02:21	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2014/02/000_-150x150.jpg (from www.pegadaspelomundo.com.br/tag/ancona/)
+00:02:22	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/eurotrip-2009-hvar-e-dias-15-a/001-3/ (from www.pegadaspelomundo.com.br/tag/ancona/)
+00:02:24	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2014/02/001-150x150.jpg (from www.pegadaspelomundo.com.br/tag/ancona/)
+00:02:25	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/eurotrip-2009-hvar-e-dias-15-a/001_/ (from www.pegadaspelomundo.com.br/tag/ancona/)
+00:02:25	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2014/02/001_-150x150.jpg (from www.pegadaspelomundo.com.br/tag/ancona/)
+00:02:27	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/eurotrip-2009-hvar-e-dias-15-a/001-ozujsko/ (from www.pegadaspelomundo.com.br/tag/ancona/)
+00:02:29	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2014/02/001-ozujsko-150x150.jpg (from www.pegadaspelomundo.com.br/tag/ancona/)
+00:02:29	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/eurotrip-2009-hvar-e-dias-15-a/002_/ (from www.pegadaspelomundo.com.br/tag/ancona/)
+00:02:31	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2014/02/002_-150x150.jpg (from www.pegadaspelomundo.com.br/tag/ancona/)
+00:02:31	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/eurotrip-2009-hvar-e-dias-15-a/005-2/ (from www.pegadaspelomundo.com.br/tag/ancona/)
+00:02:33	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2014/02/005-2-150x150.jpg (from www.pegadaspelomundo.com.br/tag/ancona/)
+00:02:34	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/eurotrip-2009-hvar-e-dias-15-a/attachment/010/ (from www.pegadaspelomundo.com.br/tag/ancona/)
+00:02:35	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2014/02/010-150x150.jpg (from www.pegadaspelomundo.com.br/tag/ancona/)
+00:02:36	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/eurotrip-2009-hvar-e-dias-15-a/attachment/011/ (from www.pegadaspelomundo.com.br/tag/ancona/)
+00:02:37	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2014/02/011-150x150.jpg (from www.pegadaspelomundo.com.br/tag/ancona/)
+00:02:37	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/eurotrip-2009-hvar-e-dias-15-a/attachment/017/ (from www.pegadaspelomundo.com.br/tag/ancona/)
+00:02:39	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2014/02/017-150x150.jpg (from www.pegadaspelomundo.com.br/tag/ancona/)
+00:02:39	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/eurotrip-2009-hvar-e-dias-15-a/attachment/023/ (from www.pegadaspelomundo.com.br/tag/ancona/)
+00:02:41	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2014/02/023-150x150.jpg (from www.pegadaspelomundo.com.br/tag/ancona/)
+00:02:41	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/eurotrip-2009-hvar-e-dias-15-a/024-2/ (from www.pegadaspelomundo.com.br/tag/ancona/)
+00:02:43	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2014/02/024-150x150.jpg (from www.pegadaspelomundo.com.br/tag/ancona/)
+00:02:44	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/eurotrip-2009-hvar-e-dias-15-a/attachment/026/ (from www.pegadaspelomundo.com.br/tag/ancona/)
+00:02:45	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2014/02/026-150x150.jpg (from www.pegadaspelomundo.com.br/tag/ancona/)
+00:02:46	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/eurotrip-2009-hvar-e-dias-15-a/027-2/ (from www.pegadaspelomundo.com.br/tag/ancona/)
+00:02:47	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2014/02/027-150x150.jpg (from www.pegadaspelomundo.com.br/tag/ancona/)
+00:02:48	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/eurotrip-2009-hvar-e-dias-15-a/attachment/044/ (from www.pegadaspelomundo.com.br/tag/ancona/)
+00:02:49	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2014/02/044-150x150.jpg (from www.pegadaspelomundo.com.br/tag/ancona/)
+00:02:50	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/eurotrip-2009-hvar-e-dias-15-a/attachment/048/ (from www.pegadaspelomundo.com.br/tag/ancona/)
+00:02:52	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2014/02/048-150x150.jpg (from www.pegadaspelomundo.com.br/tag/ancona/)
+00:02:52	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/eurotrip-2009-hvar-e-dias-15-a/057-2/ (from www.pegadaspelomundo.com.br/tag/ancona/)
+00:02:53	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2014/02/057-150x150.jpg (from www.pegadaspelomundo.com.br/tag/ancona/)
+00:02:54	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/eurotrip-2009-hvar-e-dias-15-a/attachment/062/ (from www.pegadaspelomundo.com.br/tag/ancona/)
+00:02:56	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2014/02/062-150x150.jpg (from www.pegadaspelomundo.com.br/tag/ancona/)
+00:02:57	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/eurotrip-2009-hvar-e-dias-15-a/attachment/068/ (from www.pegadaspelomundo.com.br/tag/ancona/)
+00:02:58	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2014/02/068-150x150.jpg (from www.pegadaspelomundo.com.br/tag/ancona/)
+00:02:58	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/eurotrip-2009-hvar-e-dias-15-a/attachment/077/ (from www.pegadaspelomundo.com.br/tag/ancona/)
+00:03:00	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2014/02/077-150x150.jpg (from www.pegadaspelomundo.com.br/tag/ancona/)
+00:03:02	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/eurotrip-2009-hvar-e-dias-15-a/attachment/082/ (from www.pegadaspelomundo.com.br/tag/ancona/)
+00:03:02	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2014/02/082-150x150.jpg (from www.pegadaspelomundo.com.br/tag/ancona/)
+00:03:04	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/eurotrip-2009-hvar-e-dias-15-a/083-2/ (from www.pegadaspelomundo.com.br/tag/ancona/)
+00:03:04	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2014/02/083-150x150.jpg (from www.pegadaspelomundo.com.br/tag/ancona/)
+00:03:06	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/tag/barcelona/feed/ (from www.pegadaspelomundo.com.br/tag/barcelona/)
+00:03:07	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2013/09/106.jpg (from www.pegadaspelomundo.com.br/tag/barcelona/)
+00:03:08	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2013/09/106-150x150.jpg (from www.pegadaspelomundo.com.br/tag/barcelona/)
+00:03:10	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2013/09/103.jpg (from www.pegadaspelomundo.com.br/tag/barcelona/)
+00:03:39	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2013/09/103-150x150.jpg (from www.pegadaspelomundo.com.br/tag/barcelona/)
+00:03:41	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2013/09/090____.jpg (from www.pegadaspelomundo.com.br/tag/barcelona/)
+00:03:58	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2013/09/090____-150x150.jpg (from www.pegadaspelomundo.com.br/tag/barcelona/)
+00:03:59	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2013/09/084.jpg (from www.pegadaspelomundo.com.br/tag/barcelona/)
+00:05:01	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2013/09/084-150x150.jpg (from www.pegadaspelomundo.com.br/tag/barcelona/)
+00:05:04	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2013/09/057.jpg (from www.pegadaspelomundo.com.br/tag/barcelona/)
+00:07:17	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2013/09/057-150x150.jpg (from www.pegadaspelomundo.com.br/tag/barcelona/)
+00:07:19	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2013/09/052.jpg (from www.pegadaspelomundo.com.br/tag/barcelona/)
+00:08:52	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2013/09/052-150x150.jpg (from www.pegadaspelomundo.com.br/tag/barcelona/)
+00:08:55	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2013/09/045.jpg (from www.pegadaspelomundo.com.br/tag/barcelona/)
+00:10:49	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2013/09/045-150x150.jpg (from www.pegadaspelomundo.com.br/tag/barcelona/)
+00:10:52	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2013/09/040.jpg (from www.pegadaspelomundo.com.br/tag/barcelona/)
+00:11:07	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2013/09/040-150x150.jpg (from www.pegadaspelomundo.com.br/tag/barcelona/)
+00:11:09	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2013/09/032___.jpg (from www.pegadaspelomundo.com.br/tag/barcelona/)
+00:12:09	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2013/09/032___-150x150.jpg (from www.pegadaspelomundo.com.br/tag/barcelona/)
+00:12:11	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2013/09/027.jpg (from www.pegadaspelomundo.com.br/tag/barcelona/)
+00:15:33	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2013/09/027-150x150.jpg (from www.pegadaspelomundo.com.br/tag/barcelona/)
+00:15:36	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2013/09/015.jpg (from www.pegadaspelomundo.com.br/tag/barcelona/)
+00:16:57	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2013/09/015-150x150.jpg (from www.pegadaspelomundo.com.br/tag/barcelona/)
+00:16:59	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2013/09/013_.jpg (from www.pegadaspelomundo.com.br/tag/barcelona/)
+00:16:59	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2013/09/013_-150x150.jpg (from www.pegadaspelomundo.com.br/tag/barcelona/)
+00:17:01	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2013/09/009.jpg (from www.pegadaspelomundo.com.br/tag/barcelona/)
+00:17:27	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2013/09/009-150x150.jpg (from www.pegadaspelomundo.com.br/tag/barcelona/)
+00:17:29	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2013/09/004__.jpg (from www.pegadaspelomundo.com.br/tag/barcelona/)
+00:18:01	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2013/09/004__-150x150.jpg (from www.pegadaspelomundo.com.br/tag/barcelona/)
+00:18:03	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2013/09/058.jpg (from www.pegadaspelomundo.com.br/tag/barcelona/)
+00:18:21	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2013/09/058-150x150.jpg (from www.pegadaspelomundo.com.br/tag/barcelona/)
+00:18:23	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2013/09/047.jpg (from www.pegadaspelomundo.com.br/tag/barcelona/)
+00:21:59	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2013/09/047-150x150.jpg (from www.pegadaspelomundo.com.br/tag/barcelona/)
+00:22:01	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2013/09/0401.jpg (from www.pegadaspelomundo.com.br/tag/barcelona/)
+00:22:10	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2013/09/0401-150x150.jpg (from www.pegadaspelomundo.com.br/tag/barcelona/)
+00:22:11	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2013/09/016_.jpg (from www.pegadaspelomundo.com.br/tag/barcelona/)
+00:22:17	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2013/09/016_-150x150.jpg (from www.pegadaspelomundo.com.br/tag/barcelona/)
+00:22:20	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2013/09/012_.jpg (from www.pegadaspelomundo.com.br/tag/barcelona/)
+00:22:32	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2013/09/012_-150x150.jpg (from www.pegadaspelomundo.com.br/tag/barcelona/)
+00:22:34	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/tag/beberibe/feed/ (from www.pegadaspelomundo.com.br/tag/beberibe/)
+00:22:36	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/litoral-cearense-trip-praia-das-fontes-e-jericoacoara/ (from www.pegadaspelomundo.com.br/tag/beberibe/)
+00:22:38	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2015/07/mapa-waze-fortaleza-cruz.jpg (from www.pegadaspelomundo.com.br/tag/beberibe/)
+00:22:52	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2015/07/mapa-waze-fortaleza-cruz-1024x555.jpg (from www.pegadaspelomundo.com.br/tag/beberibe/)
+00:23:02	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2015/07/ceara2015_01.jpg (from www.pegadaspelomundo.com.br/tag/beberibe/)
+00:23:26	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2015/07/ceara2015_01-300x169.jpg (from www.pegadaspelomundo.com.br/tag/beberibe/)
+00:23:31	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2015/07/ceara2015_02.jpg (from www.pegadaspelomundo.com.br/tag/beberibe/)
+00:23:46	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2015/07/ceara2015_02-300x169.jpg (from www.pegadaspelomundo.com.br/tag/beberibe/)
+00:23:49	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2015/07/ceara2015_03.jpg (from www.pegadaspelomundo.com.br/tag/beberibe/)
+00:24:02	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2015/07/ceara2015_03-300x169.jpg (from www.pegadaspelomundo.com.br/tag/beberibe/)
+00:24:05	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2015/07/ceara2015_04.jpg (from www.pegadaspelomundo.com.br/tag/beberibe/)
+00:24:19	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2015/07/ceara2015_04-300x300.jpg (from www.pegadaspelomundo.com.br/tag/beberibe/)
+00:24:25	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2015/07/ceara2015_05.jpg (from www.pegadaspelomundo.com.br/tag/beberibe/)
+00:24:49	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2015/07/ceara2015_05-300x300.jpg (from www.pegadaspelomundo.com.br/tag/beberibe/)
+00:24:56	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2015/07/ceara2015_06.jpg (from www.pegadaspelomundo.com.br/tag/beberibe/)
+00:25:16	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2015/07/ceara2015_06-300x300.jpg (from www.pegadaspelomundo.com.br/tag/beberibe/)
+00:25:22	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2015/07/ceara2015_07.jpg (from www.pegadaspelomundo.com.br/tag/beberibe/)
+00:25:42	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2015/07/ceara2015_07-300x300.jpg (from www.pegadaspelomundo.com.br/tag/beberibe/)
+00:25:49	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/tag/bruxelas/feed/ (from www.pegadaspelomundo.com.br/tag/bruxelas/)
+00:25:51	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/tag/bruxelas/www.tripadvisor.com.br/Restaurant_Review-g188590-d4046588-Reviews-Cafe_de_Raedt-Amsterdam_North_Holland_Province.html (from www.pegadaspelomundo.com.br/tag/bruxelas/)
+00:25:52	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/tag/belgica/feed/ (from www.pegadaspelomundo.com.br/tag/belgica/)
+00:25:54	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/tag/belgica/www.tripadvisor.com.br/Restaurant_Review-g188590-d4046588-Reviews-Cafe_de_Raedt-Amsterdam_North_Holland_Province.html (from www.pegadaspelomundo.com.br/tag/belgica/)
+00:25:56	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/tag/ceara/feed/ (from www.pegadaspelomundo.com.br/tag/ceara/)
+00:25:59	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/tag/ceara/page/2/ (from www.pegadaspelomundo.com.br/tag/ceara/)
+00:26:01	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/tag/ceara/page/3/ (from www.pegadaspelomundo.com.br/tag/ceara/)
+00:26:03	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/tag/croacia/feed/ (from www.pegadaspelomundo.com.br/tag/croacia/)
+00:26:05	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/eurotrip-2009-season-finale/attachment/002/ (from www.pegadaspelomundo.com.br/tag/croacia/)
+00:26:07	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2014/03/002-150x150.jpg (from www.pegadaspelomundo.com.br/tag/croacia/)
+00:26:10	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/eurotrip-2009-season-finale/004-2/ (from www.pegadaspelomundo.com.br/tag/croacia/)
+00:26:12	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2014/03/0041-150x150.jpg (from www.pegadaspelomundo.com.br/tag/croacia/)
+00:26:14	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/eurotrip-2009-season-finale/001_-2/ (from www.pegadaspelomundo.com.br/tag/croacia/)
+00:26:16	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2014/03/001_-150x150.jpg (from www.pegadaspelomundo.com.br/tag/croacia/)
+00:26:18	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/eurotrip-2009-season-finale/attachment/004/ (from www.pegadaspelomundo.com.br/tag/croacia/)
+00:26:20	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2014/03/004-150x150.jpg (from www.pegadaspelomundo.com.br/tag/croacia/)
+00:26:23	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/eurotrip-2009-season-finale/011___/ (from www.pegadaspelomundo.com.br/tag/croacia/)
+00:26:25	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2014/03/011___-150x150.jpg (from www.pegadaspelomundo.com.br/tag/croacia/)
+00:26:27	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/eurotrip-2009-season-finale/attachment/016/ (from www.pegadaspelomundo.com.br/tag/croacia/)
+00:26:29	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2014/03/016-150x150.jpg (from www.pegadaspelomundo.com.br/tag/croacia/)
+00:26:31	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/eurotrip-2009-season-finale/attachment/022/ (from www.pegadaspelomundo.com.br/tag/croacia/)
+00:26:33	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2014/03/022-150x150.jpg (from www.pegadaspelomundo.com.br/tag/croacia/)
+00:26:35	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/eurotrip-2009-season-finale/attachment/030/ (from www.pegadaspelomundo.com.br/tag/croacia/)
+00:26:37	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2014/03/030-150x150.jpg (from www.pegadaspelomundo.com.br/tag/croacia/)
+00:26:39	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/eurotrip-2009-season-finale/030_/ (from www.pegadaspelomundo.com.br/tag/croacia/)
+00:26:41	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2014/03/030_-150x150.jpg (from www.pegadaspelomundo.com.br/tag/croacia/)
+00:26:43	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/eurotrip-2009-season-finale/037__/ (from www.pegadaspelomundo.com.br/tag/croacia/)
+00:26:45	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2014/03/037__-150x150.jpg (from www.pegadaspelomundo.com.br/tag/croacia/)
+00:26:46	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/eurotrip-2009-season-finale/attachment/049/ (from www.pegadaspelomundo.com.br/tag/croacia/)
+00:26:48	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2014/03/049-150x150.jpg (from www.pegadaspelomundo.com.br/tag/croacia/)
+00:26:51	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/eurotrip-2009-season-finale/060-2/ (from www.pegadaspelomundo.com.br/tag/croacia/)
+00:26:52	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2014/03/060-150x150.jpg (from www.pegadaspelomundo.com.br/tag/croacia/)
+00:26:55	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/eurotrip-2009-season-finale/attachment/061/ (from www.pegadaspelomundo.com.br/tag/croacia/)
+00:26:57	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2014/03/061-150x150.jpg (from www.pegadaspelomundo.com.br/tag/croacia/)
+00:26:59	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/eurotrip-2009-season-finale/077-2/ (from www.pegadaspelomundo.com.br/tag/croacia/)
+00:27:01	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2014/03/077-150x150.jpg (from www.pegadaspelomundo.com.br/tag/croacia/)
+00:27:03	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/eurotrip-2009-season-finale/a_008/ (from www.pegadaspelomundo.com.br/tag/croacia/)
+00:27:05	Warning: 	Retry after error -4 (Connect Error) at link www.pegadaspelomundo.com.br/wp-content/uploads/2014/03/a_008-150x150.jpg (from www.pegadaspelomundo.com.br/tag/croacia/)
+01:32:34	Error: 	"Not Found" (404) at link www.pegadaspelomundo.com.br/tag/holanda/www.tripadvisor.com.br/Restaurant_Review-g188590-d4046588-Reviews-Cafe_de_Raedt-Amsterdam_North_Holland_Province.html (from www.pegadaspelomundo.com.br/tag/holanda/)
+02:01:19	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1031
+02:01:19	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1031 to http://www.pegadaspelomundo.com.br/eurotrip-2014-paris/
+02:01:19	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=544
+02:01:19	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=544 to http://www.pegadaspelomundo.com.br/eurotrip-2009-paris-dias-1-2-e-3/
+02:03:07	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1594
+02:03:07	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1594 to http://www.pegadaspelomundo.com.br/eurotrip-2016-roteiro-nice-e-monaco/
+02:03:50	Error: 	"Not Found" (404) at link www.pegadaspelomundo.com.br/wp-content/uploads/2012/07/019.jpg (from www.pegadaspelomundo.com.br/page/30/)
+02:03:51	Error: 	"Not Found" (404) at link www.pegadaspelomundo.com.br/wp-content/uploads/2012/07/019-300x225.jpg (from www.pegadaspelomundo.com.br/page/30/)
+02:04:57	Error: 	"Not Found" (404) at link www.pegadaspelomundo.com.br/wp-content/uploads/2012/07/trieste-ancona.jpg (from www.pegadaspelomundo.com.br/page/30/)
+02:04:58	Error: 	"Not Found" (404) at link www.pegadaspelomundo.com.br/wp-content/uploads/2012/07/trieste-ancona-300x225.jpg (from www.pegadaspelomundo.com.br/page/30/)
+02:05:04	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=2182
+02:05:04	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=2182 to http://www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-6-dias-na-suica-parte-2-lauterbrunnen-lucerna-grindewald-zermatt/
+02:05:22	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=2262
+02:05:22	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=2262 to http://www.pegadaspelomundo.com.br/vivendo-em-cracovia-roteiro-completo-para-turistas/
+02:05:49	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1876
+02:05:49	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1876 to http://www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-6-dias-na-suica-parte-1-jungfraujoch-top-of-europe/
+02:06:09	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1874
+02:06:09	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1874 to http://www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-1-dia-em-innsbruck-e-chegada-na-suica/
+02:49:24	Error: 	"Not Found" (404) at link www.pegadaspelomundo.com.br/tag/amsterda/www.tripadvisor.com.br/Restaurant_Review-g188590-d4046588-Reviews-Cafe_de_Raedt-Amsterdam_North_Holland_Province.html (from www.pegadaspelomundo.com.br/tag/amsterda/)
+03:24:07	Error: 	"Not Found" (404) at link www.pegadaspelomundo.com.br/tag/bruxelas/www.tripadvisor.com.br/Restaurant_Review-g188590-d4046588-Reviews-Cafe_de_Raedt-Amsterdam_North_Holland_Province.html (from www.pegadaspelomundo.com.br/tag/bruxelas/)
+03:24:07	Error: 	"Not Found" (404) at link www.pegadaspelomundo.com.br/tag/belgica/www.tripadvisor.com.br/Restaurant_Review-g188590-d4046588-Reviews-Cafe_de_Raedt-Amsterdam_North_Holland_Province.html (from www.pegadaspelomundo.com.br/tag/belgica/)
+03:45:59	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=997
+03:45:59	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=997 to http://www.pegadaspelomundo.com.br/eurotrip-2009-season-finale/c-2/
+03:45:59	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=998
+03:45:59	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=998 to http://www.pegadaspelomundo.com.br/eurotrip-2009-season-finale/c-3/
+03:45:59	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=999
+03:45:59	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=999 to http://www.pegadaspelomundo.com.br/eurotrip-2009-season-finale/c-4/
+03:45:59	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1000
+03:45:59	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1000 to http://www.pegadaspelomundo.com.br/eurotrip-2009-season-finale/c-5/
+03:45:59	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1001
+03:45:59	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1001 to http://www.pegadaspelomundo.com.br/eurotrip-2009-season-finale/c-6/
+03:45:59	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1002
+03:45:59	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1002 to http://www.pegadaspelomundo.com.br/eurotrip-2009-season-finale/c-7/
+03:45:59	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1003
+03:45:59	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1003 to http://www.pegadaspelomundo.com.br/eurotrip-2009-season-finale/c-8/
+03:45:59	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1004
+03:45:59	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1004 to http://www.pegadaspelomundo.com.br/eurotrip-2009-season-finale/c-9/
+03:45:59	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1005
+03:45:59	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1005 to http://www.pegadaspelomundo.com.br/eurotrip-2009-season-finale/c-10/
+03:45:59	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1006
+03:45:59	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1006 to http://www.pegadaspelomundo.com.br/eurotrip-2009-season-finale/c-11/
+03:45:59	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1007
+03:45:59	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1007 to http://www.pegadaspelomundo.com.br/eurotrip-2009-season-finale/c-12/
+03:45:59	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1008
+03:45:59	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1008 to http://www.pegadaspelomundo.com.br/eurotrip-2009-season-finale/c-13/
+03:45:59	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1009
+03:45:59	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1009 to http://www.pegadaspelomundo.com.br/eurotrip-2009-season-finale/c-14/
+03:45:59	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=996
+03:45:59	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=996 to http://www.pegadaspelomundo.com.br/eurotrip-2009-season-finale/c-1/
+03:45:59	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1010
+03:45:59	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1010 to http://www.pegadaspelomundo.com.br/eurotrip-2009-season-finale/d-2/
+03:45:59	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1011
+03:45:59	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1011 to http://www.pegadaspelomundo.com.br/eurotrip-2009-season-finale/d-3/
+03:45:59	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1012
+03:45:59	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1012 to http://www.pegadaspelomundo.com.br/eurotrip-2009-season-finale/d-4/
+03:45:59	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=870
+03:45:59	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=870 to http://www.pegadaspelomundo.com.br/eurotrip-2009-ibiza-e-roma-dias-10-a-14/attachment/083/
+03:45:59	Warning: 	Retry after error -2 (Receive Time Out) at link www.pegadaspelomundo.com.br/wp-content/uploads/2013/11/083.jpg (from www.pegadaspelomundo.com.br/eurotrip-2009-ibiza-e-roma-dias-10-a-14/attachment/083/)
+03:46:18	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=869
+03:46:18	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=869 to http://www.pegadaspelomundo.com.br/eurotrip-2009-ibiza-e-roma-dias-10-a-14/attachment/074/
+03:46:18	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=868
+03:46:18	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=868 to http://www.pegadaspelomundo.com.br/eurotrip-2009-ibiza-e-roma-dias-10-a-14/attachment/064/
+03:46:18	Warning: 	Retry after error -2 (Receive Time Out) at link www.pegadaspelomundo.com.br/wp-content/uploads/2013/11/064.jpg (from www.pegadaspelomundo.com.br/eurotrip-2009-ibiza-e-roma-dias-10-a-14/attachment/064/)
+03:46:23	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=867
+03:46:23	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=867 to http://www.pegadaspelomundo.com.br/eurotrip-2009-ibiza-e-roma-dias-10-a-14/attachment/056/
+03:46:23	Warning: 	Retry after error -2 (Receive Time Out) at link www.pegadaspelomundo.com.br/wp-content/uploads/2013/11/056.jpg (from www.pegadaspelomundo.com.br/eurotrip-2009-ibiza-e-roma-dias-10-a-14/attachment/056/)
+03:46:44	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=863
+03:46:44	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=863 to http://www.pegadaspelomundo.com.br/eurotrip-2009-ibiza-e-roma-dias-10-a-14/027___/
+03:46:44	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=862
+03:46:44	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=862 to http://www.pegadaspelomundo.com.br/eurotrip-2009-ibiza-e-roma-dias-10-a-14/017___/
+03:46:44	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=860
+03:46:44	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=860 to http://www.pegadaspelomundo.com.br/eurotrip-2009-ibiza-e-roma-dias-10-a-14/012_-2/
+03:46:44	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=861
+03:46:44	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=861 to http://www.pegadaspelomundo.com.br/eurotrip-2009-ibiza-e-roma-dias-10-a-14/013__/
+03:46:44	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=864
+03:46:44	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=864 to http://www.pegadaspelomundo.com.br/eurotrip-2009-ibiza-e-roma-dias-10-a-14/attachment/028/
+03:46:44	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=865
+03:46:44	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=865 to http://www.pegadaspelomundo.com.br/eurotrip-2009-ibiza-e-roma-dias-10-a-14/attachment/038/
+03:46:44	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=866
+03:46:44	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=866 to http://www.pegadaspelomundo.com.br/eurotrip-2009-ibiza-e-roma-dias-10-a-14/040-3/
+03:46:44	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=859
+03:46:44	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=859 to http://www.pegadaspelomundo.com.br/eurotrip-2009-ibiza-e-roma-dias-10-a-14/attachment/005/
+03:46:44	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=858
+03:46:44	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=858 to http://www.pegadaspelomundo.com.br/eurotrip-2009-ibiza-e-roma-dias-10-a-14/001-2/
+03:46:44	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=853
+03:46:44	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=853 to http://www.pegadaspelomundo.com.br/eurotrip-2009-ibiza-e-roma-dias-10-a-14/attachment/099/
+03:46:44	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=852
+03:46:44	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=852 to http://www.pegadaspelomundo.com.br/eurotrip-2009-ibiza-e-roma-dias-10-a-14/attachment/093/
+03:46:44	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=851
+03:46:44	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=851 to http://www.pegadaspelomundo.com.br/eurotrip-2009-ibiza-e-roma-dias-10-a-14/attachment/075/
+03:46:44	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=849
+03:46:44	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=849 to http://www.pegadaspelomundo.com.br/eurotrip-2009-ibiza-e-roma-dias-10-a-14/attachment/063/
+03:46:44	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=848
+03:46:44	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=848 to http://www.pegadaspelomundo.com.br/eurotrip-2009-ibiza-e-roma-dias-10-a-14/attachment/060/
+03:46:44	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=847
+03:46:44	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=847 to http://www.pegadaspelomundo.com.br/eurotrip-2009-ibiza-e-roma-dias-10-a-14/019-2/
+03:46:44	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=850
+03:46:44	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=850 to http://www.pegadaspelomundo.com.br/eurotrip-2009-ibiza-e-roma-dias-10-a-14/attachment/072/
+03:46:44	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=845
+03:46:44	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=845 to http://www.pegadaspelomundo.com.br/eurotrip-2009-ibiza-e-roma-dias-10-a-14/attachment/006/
+03:46:52	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1592
+03:46:52	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1592 to http://www.pegadaspelomundo.com.br/eurotrip-2016-roteiro-cinque-terre/
+03:47:05	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1132
+03:47:05	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1132 to http://www.pegadaspelomundo.com.br/eurotrip-2014-milao-verona-veneza-e-roma/
+03:47:06	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1148
+03:47:06	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1148 to http://www.pegadaspelomundo.com.br/eurotrip-2014-milao-verona-veneza-e-roma/10246318_4097515373684_2082488324104627704_n/
+03:47:06	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1149
+03:47:06	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1149 to http://www.pegadaspelomundo.com.br/eurotrip-2014-milao-verona-veneza-e-roma/10246378_3999942014411_2416765110784305349_n/
+03:47:06	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1150
+03:47:06	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1150 to http://www.pegadaspelomundo.com.br/eurotrip-2014-milao-verona-veneza-e-roma/10154213_3990566620032_2088889395_n/
+03:47:06	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1151
+03:47:06	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1151 to http://www.pegadaspelomundo.com.br/eurotrip-2014-milao-verona-veneza-e-roma/10169466_3990567060043_1781719208_n/
+03:47:06	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1152
+03:47:06	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1152 to http://www.pegadaspelomundo.com.br/eurotrip-2014-milao-verona-veneza-e-roma/10013497_3991204995991_1512995480_n/
+03:47:06	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1153
+03:47:06	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1153 to http://www.pegadaspelomundo.com.br/eurotrip-2014-milao-verona-veneza-e-roma/10154170_4097516253706_8800250858299217534_n/
+03:47:06	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1154
+03:47:06	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1154 to http://www.pegadaspelomundo.com.br/eurotrip-2014-milao-verona-veneza-e-roma/10273648_4097516133703_5798783501613579649_n/
+03:47:06	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1155
+03:47:06	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1155 to http://www.pegadaspelomundo.com.br/eurotrip-2014-milao-verona-veneza-e-roma/10314637_4097514653666_2161386455725768819_n/
+03:47:06	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1156
+03:47:06	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1156 to http://www.pegadaspelomundo.com.br/eurotrip-2014-milao-verona-veneza-e-roma/10247311_3999971335144_6276049302513605294_n/
+03:47:06	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1157
+03:47:06	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1157 to http://www.pegadaspelomundo.com.br/eurotrip-2014-milao-verona-veneza-e-roma/1940010_3993546494527_2065037170_n/
+03:47:06	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1158
+03:47:06	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1158 to http://www.pegadaspelomundo.com.br/eurotrip-2014-milao-verona-veneza-e-roma/10151410_3995531264145_1647139829_n/
+03:47:06	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1159
+03:47:06	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1159 to http://www.pegadaspelomundo.com.br/eurotrip-2014-milao-verona-veneza-e-roma/10172644_4097516613715_7347014539395921531_n/
+03:47:06	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1160
+03:47:06	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1160 to http://www.pegadaspelomundo.com.br/eurotrip-2014-milao-verona-veneza-e-roma/10175027_3999990295618_1690450481953280574_n/
+03:48:17	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1255
+03:48:17	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1255 to http://www.pegadaspelomundo.com.br/eurotrip-2015-paris/attachment/01/
+03:48:17	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1256
+03:48:17	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1256 to http://www.pegadaspelomundo.com.br/eurotrip-2015-paris/attachment/02/
+03:48:17	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1257
+03:48:17	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1257 to http://www.pegadaspelomundo.com.br/eurotrip-2015-paris/attachment/03/
+03:48:17	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1258
+03:48:17	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1258 to http://www.pegadaspelomundo.com.br/eurotrip-2015-paris/attachment/04/
+03:48:17	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1259
+03:48:17	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1259 to http://www.pegadaspelomundo.com.br/eurotrip-2015-paris/04_/
+03:48:17	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1260
+03:48:17	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1260 to http://www.pegadaspelomundo.com.br/eurotrip-2015-paris/attachment/05/
+03:48:17	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1261
+03:48:17	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1261 to http://www.pegadaspelomundo.com.br/eurotrip-2015-paris/attachment/06/
+03:48:17	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1262
+03:48:17	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1262 to http://www.pegadaspelomundo.com.br/eurotrip-2015-paris/attachment/07/
+03:48:20	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1166
+03:48:20	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1166 to http://www.pegadaspelomundo.com.br/pegadas-pelo-mundo-partiu/
+04:09:34	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1598
+04:09:34	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1598 to http://www.pegadaspelomundo.com.br/eurotrip-2016-oceanario-de-lisboa/
+04:09:47	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1164
+04:09:47	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1164 to http://www.pegadaspelomundo.com.br/eurotrip-2015-paris/
+04:09:55	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=122
+04:09:55	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=122 to http://www.pegadaspelomundo.com.br/viagens-eurotrip-2009/
+04:09:55	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=679
+04:09:55	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=679 to http://www.pegadaspelomundo.com.br/eurotrip-2009-paris-e-londres-dias-4-e-5/
+04:09:56	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=782
+04:09:56	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=782 to http://www.pegadaspelomundo.com.br/eurotrip-2009-dublin-e-barcelona-dias-6-7-8-e-9/
+04:10:04	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=827
+04:10:04	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=827 to http://www.pegadaspelomundo.com.br/eurotrip-2009-ibiza-e-roma-dias-10-a-14/
+04:10:08	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=890
+04:10:08	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=890 to http://www.pegadaspelomundo.com.br/eurotrip-2009-hvar-e-dias-15-a/
+04:10:15	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=904
+04:10:15	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=904 to http://www.pegadaspelomundo.com.br/eurotrip-2009-season-finale/
+04:10:23	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1242
+04:10:23	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1242 to http://www.pegadaspelomundo.com.br/eurotrip-2015-londres-lisboa/
+04:10:28	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1892
+04:10:28	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1892 to http://www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-3-dias-em-munique/
+04:10:32	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1783
+04:10:32	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1783 to http://www.pegadaspelomundo.com.br/icaraizinho-de-amontada-2016/
+04:10:45	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1933
+04:10:45	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1933 to http://www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-2-dias-em-rothenburg-pitstop-em-wurzburg-e-dinkelsbuhl/
+04:10:48	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1197
+04:10:48	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1197 to http://www.pegadaspelomundo.com.br/eurotrip-2015-bruxelas-e-amsterda/
+04:10:48	Error: 	"Not Found" (404) at link www.pegadaspelomundo.com.br/eurotrip-2015-bruxelas-e-amsterda/www.tripadvisor.com.br/Restaurant_Review-g188590-d4046588-Reviews-Cafe_de_Raedt-Amsterdam_North_Holland_Province.html (from www.pegadaspelomundo.com.br/eurotrip-2015-bruxelas-e-amsterda/)
+04:10:53	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1370
+04:10:53	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1370 to http://www.pegadaspelomundo.com.br/jericoacoara-o-paraiso-e-aqui/
+04:35:06	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=924
+04:35:06	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=924 to http://www.pegadaspelomundo.com.br/eurotrip-2009-hvar-e-dias-15-a/attachment/000/
+04:35:06	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=925
+04:35:06	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=925 to http://www.pegadaspelomundo.com.br/eurotrip-2009-hvar-e-dias-15-a/000_/
+04:35:06	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=926
+04:35:06	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=926 to http://www.pegadaspelomundo.com.br/eurotrip-2009-hvar-e-dias-15-a/001-3/
+04:35:06	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=927
+04:35:06	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=927 to http://www.pegadaspelomundo.com.br/eurotrip-2009-hvar-e-dias-15-a/001_/
+04:35:06	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=928
+04:35:06	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=928 to http://www.pegadaspelomundo.com.br/eurotrip-2009-hvar-e-dias-15-a/001-ozujsko/
+04:35:06	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=929
+04:35:06	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=929 to http://www.pegadaspelomundo.com.br/eurotrip-2009-hvar-e-dias-15-a/002_/
+04:35:06	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=930
+04:35:06	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=930 to http://www.pegadaspelomundo.com.br/eurotrip-2009-hvar-e-dias-15-a/005-2/
+04:35:06	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=931
+04:35:06	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=931 to http://www.pegadaspelomundo.com.br/eurotrip-2009-hvar-e-dias-15-a/attachment/010/
+04:35:06	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=932
+04:35:06	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=932 to http://www.pegadaspelomundo.com.br/eurotrip-2009-hvar-e-dias-15-a/attachment/011/
+04:35:06	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=933
+04:35:06	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=933 to http://www.pegadaspelomundo.com.br/eurotrip-2009-hvar-e-dias-15-a/attachment/017/
+04:35:06	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=934
+04:35:06	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=934 to http://www.pegadaspelomundo.com.br/eurotrip-2009-hvar-e-dias-15-a/attachment/023/
+04:35:06	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=935
+04:35:06	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=935 to http://www.pegadaspelomundo.com.br/eurotrip-2009-hvar-e-dias-15-a/024-2/
+04:35:06	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=936
+04:35:06	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=936 to http://www.pegadaspelomundo.com.br/eurotrip-2009-hvar-e-dias-15-a/attachment/026/
+04:35:06	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=937
+04:35:06	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=937 to http://www.pegadaspelomundo.com.br/eurotrip-2009-hvar-e-dias-15-a/027-2/
+04:35:06	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=938
+04:35:06	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=938 to http://www.pegadaspelomundo.com.br/eurotrip-2009-hvar-e-dias-15-a/attachment/044/
+04:35:06	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=939
+04:35:06	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=939 to http://www.pegadaspelomundo.com.br/eurotrip-2009-hvar-e-dias-15-a/attachment/048/
+04:35:06	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=940
+04:35:06	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=940 to http://www.pegadaspelomundo.com.br/eurotrip-2009-hvar-e-dias-15-a/057-2/
+04:35:06	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=941
+04:35:06	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=941 to http://www.pegadaspelomundo.com.br/eurotrip-2009-hvar-e-dias-15-a/attachment/062/
+04:35:06	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=942
+04:35:06	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=942 to http://www.pegadaspelomundo.com.br/eurotrip-2009-hvar-e-dias-15-a/attachment/068/
+04:35:06	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=943
+04:35:06	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=943 to http://www.pegadaspelomundo.com.br/eurotrip-2009-hvar-e-dias-15-a/attachment/077/
+04:35:06	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=944
+04:35:06	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=944 to http://www.pegadaspelomundo.com.br/eurotrip-2009-hvar-e-dias-15-a/attachment/082/
+04:35:06	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=945
+04:35:06	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=945 to http://www.pegadaspelomundo.com.br/eurotrip-2009-hvar-e-dias-15-a/083-2/
+04:35:06	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1287
+04:35:06	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1287 to http://www.pegadaspelomundo.com.br/litoral-cearense-trip-praia-das-fontes-e-jericoacoara/
+04:35:06	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1018
+04:35:06	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1018 to http://www.pegadaspelomundo.com.br/eurotrip-2009-season-finale/attachment/002/
+04:35:06	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1019
+04:35:06	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1019 to http://www.pegadaspelomundo.com.br/eurotrip-2009-season-finale/004-2/
+04:35:06	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=982
+04:35:06	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=982 to http://www.pegadaspelomundo.com.br/eurotrip-2009-season-finale/001_-2/
+04:35:06	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=983
+04:35:06	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=983 to http://www.pegadaspelomundo.com.br/eurotrip-2009-season-finale/attachment/004/
+04:35:06	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=984
+04:35:06	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=984 to http://www.pegadaspelomundo.com.br/eurotrip-2009-season-finale/011___/
+04:35:06	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=985
+04:35:06	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=985 to http://www.pegadaspelomundo.com.br/eurotrip-2009-season-finale/attachment/016/
+04:35:06	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=986
+04:35:06	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=986 to http://www.pegadaspelomundo.com.br/eurotrip-2009-season-finale/attachment/022/
+04:35:06	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=987
+04:35:06	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=987 to http://www.pegadaspelomundo.com.br/eurotrip-2009-season-finale/attachment/030/
+04:35:06	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=988
+04:35:06	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=988 to http://www.pegadaspelomundo.com.br/eurotrip-2009-season-finale/030_/
+04:35:06	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=989
+04:35:06	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=989 to http://www.pegadaspelomundo.com.br/eurotrip-2009-season-finale/037__/
+04:35:06	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=990
+04:35:06	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=990 to http://www.pegadaspelomundo.com.br/eurotrip-2009-season-finale/attachment/049/
+04:35:06	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=991
+04:35:06	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=991 to http://www.pegadaspelomundo.com.br/eurotrip-2009-season-finale/060-2/
+04:35:06	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=992
+04:35:06	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=992 to http://www.pegadaspelomundo.com.br/eurotrip-2009-season-finale/attachment/061/
+04:35:06	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=993
+04:35:06	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=993 to http://www.pegadaspelomundo.com.br/eurotrip-2009-season-finale/077-2/
+04:35:06	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=995
+04:35:06	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=995 to http://www.pegadaspelomundo.com.br/eurotrip-2009-season-finale/a_008/
+04:35:21	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1240
+04:35:21	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1240 to http://www.pegadaspelomundo.com.br/eurotrip-2015-londres/
+04:35:21	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1124
+04:35:21	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1124 to http://www.pegadaspelomundo.com.br/eurotrip-2014-paris/998958_3969762499942_773202273_n/
+04:35:21	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1114
+04:35:21	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1114 to http://www.pegadaspelomundo.com.br/eurotrip-2014-paris/1507004_3972236601793_1863734563_n/
+04:35:21	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1115
+04:35:21	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1115 to http://www.pegadaspelomundo.com.br/eurotrip-2014-paris/1003583_3973552434688_852079012_n/
+04:35:21	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1116
+04:35:21	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1116 to http://www.pegadaspelomundo.com.br/eurotrip-2014-paris/1095036_3976458667342_570900565_n/
+04:35:21	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1123
+04:35:21	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1123 to http://www.pegadaspelomundo.com.br/eurotrip-2014-paris/1618416_3979432941697_493171135_n/
+04:35:21	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1113
+04:35:21	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1113 to http://www.pegadaspelomundo.com.br/eurotrip-2014-paris/10330521_4097512773619_2832253108871948579_n/
+04:35:21	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1117
+04:35:21	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1117 to http://www.pegadaspelomundo.com.br/eurotrip-2014-paris/10152524_3979459982373_1968222659_n/
+04:35:21	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1121
+04:35:21	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1121 to http://www.pegadaspelomundo.com.br/eurotrip-2014-paris/1383734_3979466582538_984409127_n/
+04:35:21	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1122
+04:35:21	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1122 to http://www.pegadaspelomundo.com.br/eurotrip-2014-paris/10257669_4097512813620_380942165122158076_n/
+04:35:21	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1120
+04:35:21	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1120 to http://www.pegadaspelomundo.com.br/eurotrip-2014-paris/1507622_3981671037648_441470133_n/
+04:35:21	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1118
+04:35:21	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1118 to http://www.pegadaspelomundo.com.br/eurotrip-2014-paris/1966781_3984763274952_709587112_n/
+04:35:21	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1119
+04:35:21	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1119 to http://www.pegadaspelomundo.com.br/eurotrip-2014-paris/10168200_4097515293682_2243371978307133205_n/
+04:35:26	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1590
+04:35:26	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1590 to http://www.pegadaspelomundo.com.br/eurotrip-2016-santorini/
+04:35:36	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1872
+04:35:36	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1872 to http://www.pegadaspelomundo.com.br/eurotrip-2017-roteiro-de-1-dia-em-frankfurt/
+04:35:46	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1485
+04:35:46	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1485 to http://www.pegadaspelomundo.com.br/chile-2016/
+04:36:01	Error: 	"Not Found" (404) at link www.pegadaspelomundo.com.br/category/belgica/www.tripadvisor.com.br/Restaurant_Review-g188590-d4046588-Reviews-Cafe_de_Raedt-Amsterdam_North_Holland_Province.html (from www.pegadaspelomundo.com.br/category/belgica/)
+04:36:01	Error: 	"Not Found" (404) at link www.pegadaspelomundo.com.br/category/holanda/www.tripadvisor.com.br/Restaurant_Review-g188590-d4046588-Reviews-Cafe_de_Raedt-Amsterdam_North_Holland_Province.html (from www.pegadaspelomundo.com.br/category/holanda/)
+04:36:02	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1532
+04:36:02	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1532 to http://www.pegadaspelomundo.com.br/chile-2016/img_20160110_160713089_top/
+04:36:02	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1533
+04:36:02	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1533 to http://www.pegadaspelomundo.com.br/chile-2016/img_20160110_152032201/
+04:36:02	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1543
+04:36:02	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1543 to http://www.pegadaspelomundo.com.br/chile-2016/dscn1485/
+04:36:02	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1544
+04:36:02	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1544 to http://www.pegadaspelomundo.com.br/chile-2016/img_20160111_133856102/
+04:36:02	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1545
+04:36:02	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1545 to http://www.pegadaspelomundo.com.br/chile-2016/img_20160111_135017688_hdr/
+04:36:02	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1552
+04:36:02	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1552 to http://www.pegadaspelomundo.com.br/chile-2016/img_20160111_210011025/
+04:36:02	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1551
+04:36:02	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1551 to http://www.pegadaspelomundo.com.br/chile-2016/img_20160111_204949653_hdr/
+04:36:02	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1556
+04:36:02	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1556 to http://www.pegadaspelomundo.com.br/chile-2016/img_20160112_174540505_hdr/
+04:36:02	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1555
+04:36:02	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1555 to http://www.pegadaspelomundo.com.br/chile-2016/1914778_10201385879646413_1432929247850100906_n/
+04:36:02	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1559
+04:36:02	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1559 to http://www.pegadaspelomundo.com.br/chile-2016/dscn1677/
+04:37:29	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1560
+04:37:29	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1560 to http://www.pegadaspelomundo.com.br/chile-2016/img_20160113_131554896/
+04:37:29	Warning: 	Moved Permanently for www.pegadaspelomundo.com.br/?p=1568
+04:37:29	Warning: 	File has moved from www.pegadaspelomundo.com.br/?p=1568 to http://www.pegadaspelomundo.com.br/chile-2016/img_20160113_122619232/
+04:41:23	Error: 	"Not Found" (404) at link www.pegadaspelomundo.com.br/tag/europa/page/15/www.tripadvisor.com.br/Restaurant_Review-g188590-d4046588-Reviews-Cafe_de_Raedt-Amsterdam_North_Holland_Province.html (from www.pegadaspelomundo.com.br/tag/europa/page/15/)
+04:41:24	Error: 	"Not Found" (404) at link www.pegadaspelomundo.com.br/tag/eurotrip/page/14/www.tripadvisor.com.br/Restaurant_Review-g188590-d4046588-Reviews-Cafe_de_Raedt-Amsterdam_North_Holland_Province.html (from www.pegadaspelomundo.com.br/tag/eurotrip/page/14/)
+04:41:27	Error: 	"Not Found" (404) at link www.pegadaspelomundo.com.br/category/europa/page/15/www.tripadvisor.com.br/Restaurant_Review-g188590-d4046588-Reviews-Cafe_de_Raedt-Amsterdam_North_Holland_Province.html (from www.pegadaspelomundo.com.br/category/europa/page/15/)
+04:41:37	Error: 	"Not Found" (404) at link www.pegadaspelomundo.com.br/page/18/www.tripadvisor.com.br/Restaurant_Review-g188590-d4046588-Reviews-Cafe_de_Raedt-Amsterdam_North_Holland_Province.html (from www.pegadaspelomundo.com.br/page/18/)
+04:41:37	Error: 	"Not Found" (404) at link www.pegadaspelomundo.com.br/tag/roteiros/page/17/www.tripadvisor.com.br/Restaurant_Review-g188590-d4046588-Reviews-Cafe_de_Raedt-Amsterdam_North_Holland_Province.html (from www.pegadaspelomundo.com.br/tag/roteiros/page/17/)
+04:41:37	Error: 	"Not Found" (404) at link www.pegadaspelomundo.com.br/author/admin/page/16/www.tripadvisor.com.br/Restaurant_Review-g188590-d4046588-Reviews-Cafe_de_Raedt-Amsterdam_North_Holland_Province.html (from www.pegadaspelomundo.com.br/author/admin/page/16/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 11 hours 21 minutes 27 seconds : 2639 links scanned, 2028 files written (867739783 bytes overall) [838102583 bytes received at 20498 bytes/sec], 49987769 bytes transferred using HTTP compression in 690 files, ratio 36%
+(19 errors, 742 warnings, 0 messages)
